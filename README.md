@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/rafernandespinheiro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rafael-fernandes-pinheiro-7bb283248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-
+<hr> 
 <h3>🎓 Formação Acadêmica 🎓</h3>
 💡 Administração - E.E. Parque Jurema III <br>
 💡 Informática e Administração Geral - Eurodata Interativa <br>
